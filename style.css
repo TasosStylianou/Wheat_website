@@ -1,4 +1,4 @@
-.menu {
-    padding: 15px 10px 15px 10px;
+.menu , .about_us {
+    padding: 15px 50px 15px 50px;
     color: black;
 }
